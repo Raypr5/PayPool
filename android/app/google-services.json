@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "736217384696",
+    "project_id": "paypool-int",
+    "storage_bucket": "paypool-int.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736217384696:android:75994671bf2dac85671d0d",
+        "android_client_info": {
+          "package_name": "com.example.paypool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736217384696-s42ipqmgsa5n2l6o3vtdvsqud5uo5a0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paypool",
+            "certificate_hash": "0ab2fcaf2207b245a9fdbe296982b37e0e16803b"
+          }
+        },
+        {
+          "client_id": "736217384696-jtt8d5erpaf5ne39gp2njgbpffe9g90f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9yMUQpurMAwDsv7se2nJN_nbym56vpAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736217384696-jtt8d5erpaf5ne39gp2njgbpffe9g90f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
